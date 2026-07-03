@@ -1,9 +1,0 @@
-{
-  "name": "team-solstice",
-  "compatibility_date": "2026-07-01",
-  "main": "_worker.js",
-  "assets": {
-    "directory": ".",
-    "binding": "ASSETS"
-  }
-}
